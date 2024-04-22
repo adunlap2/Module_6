@@ -9,7 +9,7 @@
 - Latitude vs. Cloudiness
 - Latitude vs. Wind Speed
 
-**:beach_with_umbrella: VacationPY Project**
+** :desert_island: VacationPY Project**
 - **Overview:**
   - The VacationPY project utilizes data from the Weather API dataset to find local hotels near randomly selected locations. It includes functionalities to display random cities on a map plot, with each plot showing longitude and latitude coordinates when hovered over. The project also integrates the Geoapify API to find the first hotel located within 10,000 meters of the coordinates of each city.
 
