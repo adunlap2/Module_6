@@ -16,26 +16,26 @@
 - **Project Features**
 - Random City Selection:
 - Randomly selects cities from the Weather API dataset.
-- **:world_map:Map Plotting:**
+- **:world_map: Map Plotting:**
 - Displays random cities on a map plot.
 - Hovering over each plot shows longitude and latitude coordinates.
-- **:hotel:Hotel Search:**
+- **:hotel: Hotel Search:**
 - Utilizes Geoapify API to find the first hotel within 10,000 meters of each city's coordinates.
-- :input_numbers:**Steps and Functionalities**
+- **:input_numbers: Steps and Functionalities**
 - Random City Selection:
 - Randomly selects cities from the Weather API dataset.
-- **:world_map:Map Plotting:**
+- **:world_map: Map Plotting:**
 - Displays the selected cities on a map plot.
 - Hovering over each plot reveals longitude and latitude coordinates.
-- **:hotel:Hotel Search using Geoapify API:**
-- For each city, uses Geoapify API to find the first hotel located within 10,000 meters of the coordinates.
-- **:open_book:How to Use**
+- **:hotel: Hotel Search using Geoapify API:**
+- For each city, we use Geoapify API to find the first hotel located within 10,000 meters of the coordinates.
+- **:open_book: How to Use**
 - Run the Script:
 - Execute the script to run the VacationPY project.
-- **:world_map:View Map Plot:**
+- **:world_map: View Map Plot:**
 - After running the script, view the map plot displayed with random city locations.
   Hover over each plot to see the longitude and latitude coordinates.
-- **:compass:Find Local Hotels:**
+- **:compass: Find Local Hotels:**
 - Utilizes the Geoapify API to find hotels near each randomly selected city.
   The first hotel located within 10,000 meters of each city's coordinates is displayed.
 
