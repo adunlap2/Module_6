@@ -21,7 +21,7 @@
     - Hovering over each plot shows longitude and latitude coordinates.
 - **:hotel: Hotel Search:**
     - Utilizes Geoapify API to find the first hotel within 10,000 meters of each city's coordinates.
-- **:input_numbers: Steps and Functionalities**
+- ** :input_numbers: Steps and Functionalities**
     - Random City Selection:
     - Randomly selects cities from the Weather API dataset.
 - **:world_map: Map Plotting:**
