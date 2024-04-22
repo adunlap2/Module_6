@@ -39,4 +39,16 @@
     - Utilizes the Geoapify API to find hotels near each randomly selected city.
       The first hotel located within 10,000 meters of each city's coordinates is displayed.
 
+## Acknowledgments
 
+### Emojis
+- Emoji Cheat Sheet for markdown: [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+### APIs and Modules
+- **WeatherPY API**: [OpenWeatherMap API](https://openweathermap.org/api)
+- **Geoapify API**: Module 6 EVR_Exploring_Airports
+- **Matplotlib**: Module 5 Ins_ScatterPlots
+- **Regression Techniques**: Module 5 Ins_Fits_and_Regression
+
+### Special Thanks
+- Special thanks to Tutor Sharon for guidance in generating the cities.
