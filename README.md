@@ -1,18 +1,18 @@
 # Weather API 
 🔰 About: For this project, 
-Overview
-This project analyzes weather data obtained from the WeatherPY API to explore relationships between latitude and various weather parameters. Scatter plots are used to visualize these relationships, and linear regression models are created to examine trends. The analysis focuses on the following comparisons:
+- **Overview:**
+- This project analyzes weather data obtained from the WeatherPY API to explore relationships between latitude and various weather parameters. Scatter plots are used to visualize these relationships, and linear regression models are created to examine trends. The analysis focuses on the following comparisons:
 
-Latitude vs. Temperature
-Latitude vs. Humidity
-Latitude vs. Cloudiness
-Latitude vs. Wind Speed
+- Latitude vs. Temperature
+- Latitude vs. Humidity
+- Latitude vs. Cloudiness
+- Latitude vs. Wind Speed
 
-#VacationPY Project
-Overview:
-The VacationPY project utilizes data from the Weather API dataset to find local hotels near randomly selected locations. It includes functionalities to display random cities on a map plot, with each plot showing longitude and latitude coordinates when hovered over. The project also integrates the Geoapify API to find the first hotel located within 10,000 meters of the coordinates of each city.
+**##VacationPY Project**
+- **Overview:**
+  - The VacationPY project utilizes data from the Weather API dataset to find local hotels near randomly selected locations. It includes functionalities to display random cities on a map plot, with each plot showing longitude and latitude coordinates when hovered over. The project also integrates the Geoapify API to find the first hotel located within 10,000 meters of the coordinates of each city.
 
-Project Features
+- Project Features
 Random City Selection:
 Randomly selects cities from the Weather API dataset.
 Map Plotting:
