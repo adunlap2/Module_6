@@ -35,7 +35,7 @@
 -:world_map:**View Map Plot:**
 -After running the script, view the map plot displayed with random city locations.
 Hover over each plot to see the longitude and latitude coordinates.
--:compass:**Find Local Hotels:**
+-**:compass:Find Local Hotels:**
 -Utilizes the Geoapify API to find hotels near each randomly selected city.
 The first hotel located within 10,000 meters of each city's coordinates is displayed.
 
